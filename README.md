@@ -1,7 +1,7 @@
 # ADJDS311 Color Sensor
 Arduino code for the ADJDS311 Color Sensor
 
-For complete hookup and tutorial see bildr.org: http://bildr.org/2012/01/adjd-s311_arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/adjd-s311
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
